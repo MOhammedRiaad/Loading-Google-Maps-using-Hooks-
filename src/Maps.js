@@ -31,7 +31,7 @@ function Map({ options, onMount, className, onMountProps }) {
       // adding the google maps script to the window .
       const script = document.createElement(`script`)
       script.src =
-      `https://maps.googleapis.com/maps/api/js?key=AIzaSyAJjkGrYGR_mcuy7Z14ZJ-5rug5qUGW6Bw`
+      `https://maps.googleapis.com/maps/api/js?key=${Key}`
       document.head.append(script)
       script.addEventListener(`load`, onLoad)
       return () => script.removeEventListener(`load`, onLoad)
