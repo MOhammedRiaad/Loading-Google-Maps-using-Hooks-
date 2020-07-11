@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: flex-start;
+}
+
+.map-wrapper {
+  width: 50%;
+  height: 50%;
+}
+
+.restaurant-wrapper {
+  padding-left: 10em;
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "restaurantName": "Man O'War Traditional Irish Bar & Restaurant",
+    "address": "Courtlough, Balbriggan, Co. Dublin, Ireland",
+    "lat": 53.569522,
+    "long": -6.198348,
+    "ratings": [
+      {
+        "stars": 4,
+        "comment": "Great! But not many veggie options."
+      },
+      {
+        "stars": 5,
+        "comment": "My favorite restaurant!"
+      }
+    ]
+  },
+  {
+    "restaurantName": "The Brick Room",
+    "address": "10 Railway St, Balbriggan, Co. Dublin, Ireland",
+    "lat": 53.6128,
+    "long": -6.1819,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Tiny pizzeria next to Sacre Coeur!"
+      },
+      {
+        "stars": 3,
+        "comment": "Meh, it was fine."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Libero Pizza & Pasta Restaurant",
+    "address": "Unit 2 Supervalue Co., Dublin St, Balbriggan, Co. Dublin, Ireland",
+    "lat": 53.6117,
+    "long": -6.1865,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Wonderful food, wonderful service!!"
+      },
+      {
+        "stars": 4,
+        "comment": "Service a bit slow but great food & nice atmosphere."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Gourmet Food Parlour Swords",
+    "address": "North St, Townparks, Swords, Co. Dublin, Ireland",
+    "lat": 53.461,
+    "long": -6.2203,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Wonderful food, wonderful service!!"
+      },
+      {
+        "stars": 4,
+        "comment": "Service a bit slow but great food & nice atmosphere."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Green Straw",
+    "address": "36 Main St, Swords Glebe, Swords, Co. Dublin, K67 XW01, Ireland",
+    "lat": 53.4597,
+    "long": -6.2181,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Wonderful food, wonderful service!!"
+      },
+      {
+        "stars": 4,
+        "comment": "Service a bit slow but great food & nice atmosphere."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Romayo's Donabate",
+    "address": "Chapel View, Ballalease West, Donabate, Co. Dublin, Ireland",
+    "lat": 53.4872,
+    "long": -6.1491,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Wonderful food, wonderful service!!"
+      },
+      {
+        "stars": 4,
+        "comment": "Service a bit slow but great food & nice atmosphere."
+      }
+    ]
+  },
+  {
+    "restaurantName": "The Shoreline Bar & Bistro",
+    "address": "The Shoreline Hotel, Balcarrick, Donabate, Co. Dublin, Ireland",
+    "lat": 53.4714,
+    "long": -6.1289,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Wonderful food, wonderful service!!"
+      },
+      {
+        "stars": 4,
+        "comment": "Service a bit slow but great food & nice atmosphere."
+      }
+    ]
+  },
+  {
+    "restaurantName": "The Lime Kiln Gastropub",
+    "address": "Main St, Julianstown South, Julianstown, Co. Meath, Ireland",
+    "lat": 53.6729,
+    "long": -6.2857,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Wonderful food, wonderful service!!"
+      },
+      {
+        "stars": 4,
+        "comment": "Service a bit slow but great food & nice atmosphere."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Mala Asian Street Food",
+    "address": "1 Dominic Street, Downtown Drogheda, Drogheda, Co. Louth, A92 CC42, Ireland",
+    "lat": 53.7167,
+    "long": -6.3524,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Wonderful food, wonderful service!!"
+      },
+      {
+        "stars": 4,
+        "comment": "Service a bit slow but great food & nice atmosphere."
+      }
+    ]
+  },
+  {
+    "restaurantName": "Simona Italian Fine Foods",
+    "address": "1 S Quay, Lagavooren, Drogheda, Co. Louth, A92 YH96, Ireland",
+    "lat": 53.7107,
+    "long": -6.3497,
+    "ratings": [
+      {
+        "stars": 5,
+        "comment": "Wonderful food, wonderful service!!"
+      },
+      {
+        "stars": 4,
+        "comment": "Service a bit slow but great food & nice atmosphere."
+      }
+    ]
+  }
+]
